@@ -14,7 +14,7 @@ public class MainTest {
 		
 		privateTest.inputScore(100);
 		
-		privateTest.test();
+		privateTest.test(); //테스트 추가
 
 	}
 	
